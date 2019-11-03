@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: d3a546dd7ede01c479cfa1eb46fdeb3e
+timeCreated: 1527387336
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ___DUMMY_basket
+    100002: apple01
+    100004: apple02
+    100006: apple03
+    100008: apple04
+    100010: apple05
+    100012: apple06
+    100014: apple07
+    100016: apple08
+    100018: apple09
+    100020: apple10
+    100022: apple11
+    100024: //RootNode
+    100026: sub01
+    100028: sub02
+    100030: sub03
+    400000: ___DUMMY_basket
+    400002: apple01
+    400004: apple02
+    400006: apple03
+    400008: apple04
+    400010: apple05
+    400012: apple06
+    400014: apple07
+    400016: apple08
+    400018: apple09
+    400020: apple10
+    400022: apple11
+    400024: //RootNode
+    400026: sub01
+    400028: sub02
+    400030: sub03
+    2100000: red__23_jpg_001
+    2100002: broun__foglia-2_jpg_001
+    2100004: st_wood__wood_jpg_001
+    2100006: green__H3386_ST_jpg_001
+    2300000: apple01
+    2300002: apple02
+    2300004: apple03
+    2300006: apple04
+    2300008: apple05
+    2300010: apple06
+    2300012: apple07
+    2300014: apple08
+    2300016: apple09
+    2300018: apple10
+    2300020: apple11
+    2300022: sub01
+    2300024: sub02
+    2300026: sub03
+    3300000: apple01
+    3300002: apple02
+    3300004: apple03
+    3300006: apple04
+    3300008: apple05
+    3300010: apple06
+    3300012: apple07
+    3300014: apple08
+    3300016: apple09
+    3300018: apple10
+    3300020: apple11
+    3300022: sub01
+    3300024: sub02
+    3300026: sub03
+    4300000: apple11
+    4300002: apple10
+    4300004: apple09
+    4300006: apple08
+    4300008: apple07
+    4300010: apple06
+    4300012: apple05
+    4300014: apple04
+    4300016: apple03
+    4300018: apple02
+    4300020: apple01
+    4300022: sub03
+    4300024: sub02
+    4300026: sub01
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
